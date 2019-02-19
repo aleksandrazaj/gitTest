@@ -1,2 +1,3 @@
-''# gitTest
-var name = "Ola 111"
+''# gitTest 
+'HELLO'
+'HELLO2'
