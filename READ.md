@@ -1,4 +1,1 @@
-''# gitTest 
-'HELLO'
-'HELLO2'
-kup 
+console.log(halko)
